@@ -1,6 +1,6 @@
 <h1 align="center"> EduCA </h1>
 
-- 🤝 Members **Manuel Zedano Luna, Diego Enrique Ortega Cuevas, Jose Manuel Correa Bañuelos, Eric Omar Camarena Miranda**
+- 🤝 Members **Manuel Sedano Luna, Diego Enrique Ortega Cuevas, Jose Manuel Correa Bañuelos, Eric Omar Camarena Miranda**
 
 - ⚡ Demostracion [https://drive.google.com/file/d/1iK02eDLXCDnGIT0qRCo9YMF8OPiq9dvT/view?usp=sharing)
 
